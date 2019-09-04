@@ -1,0 +1,22 @@
+-
+  type: form
+  attribute:
+    method: post
+    target: json
+    action: parse
+  innerHTML:
+    -
+      type: textarea
+      attribute:
+        name: json
+        style: 'width:100%;height:300px'
+      innerHTML:
+    -
+      type: input
+      attribute:
+        type: submit
+-
+  type: iframe
+  attribute:
+    style: 'width:100%;height:300px'
+    name: json
