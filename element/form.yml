@@ -3,7 +3,7 @@
   attribute:
     method: post
     target: json
-    action: parse
+    action: /json_to_yml/parse
   innerHTML:
     -
       type: textarea

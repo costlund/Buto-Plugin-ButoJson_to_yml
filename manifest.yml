@@ -1,5 +1,9 @@
-version: 1.0.3
+version: 1.0.4
 history:
+  1.0.4:
+    date: '2023-12-13'
+    title: Form
+    description: 'Form action settings.'
   1.0.3:
     date: '2023-09-11'
     title: Versions
